@@ -1,0 +1,384 @@
+{
+  "vertices": 16,
+  "directed": false,
+  "vertex_names": {
+    "0": "S\u00e3o Paulo",
+    "1": "Rio de Janeiro",
+    "2": "Belo Horizonte",
+    "3": "Salvador",
+    "4": "Bras\u00edlia",
+    "5": "Goi\u00e2nia",
+    "6": "Curitiba",
+    "7": "Porto Alegre",
+    "8": "Fortaleza",
+    "9": "Recife",
+    "10": "Manaus",
+    "11": "Bel\u00e9m",
+    "12": "Vit\u00f3ria",
+    "13": "Cuiab\u00e1",
+    "14": "Campinas",
+    "15": "Londrina"
+  },
+  "edges": [
+    {
+      "from": 0,
+      "to": 1,
+      "weight": 430
+    },
+    {
+      "from": 0,
+      "to": 14,
+      "weight": 100
+    },
+    {
+      "from": 0,
+      "to": 2,
+      "weight": 580
+    },
+    {
+      "from": 0,
+      "to": 6,
+      "weight": 400
+    },
+    {
+      "from": 0,
+      "to": 6,
+      "weight": 400
+    },
+    {
+      "from": 0,
+      "to": 14,
+      "weight": 100
+    },
+    {
+      "from": 1,
+      "to": 0,
+      "weight": 430
+    },
+    {
+      "from": 1,
+      "to": 2,
+      "weight": 580
+    },
+    {
+      "from": 1,
+      "to": 12,
+      "weight": 520
+    },
+    {
+      "from": 1,
+      "to": 12,
+      "weight": 520
+    },
+    {
+      "from": 14,
+      "to": 0,
+      "weight": 100
+    },
+    {
+      "from": 14,
+      "to": 0,
+      "weight": 100
+    },
+    {
+      "from": 14,
+      "to": 15,
+      "weight": 250
+    },
+    {
+      "from": 14,
+      "to": 15,
+      "weight": 250
+    },
+    {
+      "from": 2,
+      "to": 0,
+      "weight": 580
+    },
+    {
+      "from": 2,
+      "to": 1,
+      "weight": 580
+    },
+    {
+      "from": 2,
+      "to": 3,
+      "weight": 1100
+    },
+    {
+      "from": 2,
+      "to": 4,
+      "weight": 700
+    },
+    {
+      "from": 2,
+      "to": 12,
+      "weight": 520
+    },
+    {
+      "from": 2,
+      "to": 4,
+      "weight": 700
+    },
+    {
+      "from": 2,
+      "to": 12,
+      "weight": 520
+    },
+    {
+      "from": 6,
+      "to": 0,
+      "weight": 400
+    },
+    {
+      "from": 6,
+      "to": 0,
+      "weight": 400
+    },
+    {
+      "from": 6,
+      "to": 7,
+      "weight": 700
+    },
+    {
+      "from": 6,
+      "to": 15,
+      "weight": 500
+    },
+    {
+      "from": 6,
+      "to": 7,
+      "weight": 700
+    },
+    {
+      "from": 6,
+      "to": 15,
+      "weight": 500
+    },
+    {
+      "from": 12,
+      "to": 1,
+      "weight": 520
+    },
+    {
+      "from": 12,
+      "to": 2,
+      "weight": 520
+    },
+    {
+      "from": 12,
+      "to": 2,
+      "weight": 520
+    },
+    {
+      "from": 12,
+      "to": 1,
+      "weight": 520
+    },
+    {
+      "from": 3,
+      "to": 2,
+      "weight": 1100
+    },
+    {
+      "from": 3,
+      "to": 8,
+      "weight": 1200
+    },
+    {
+      "from": 3,
+      "to": 9,
+      "weight": 800
+    },
+    {
+      "from": 3,
+      "to": 8,
+      "weight": 1200
+    },
+    {
+      "from": 3,
+      "to": 9,
+      "weight": 800
+    },
+    {
+      "from": 4,
+      "to": 2,
+      "weight": 700
+    },
+    {
+      "from": 4,
+      "to": 5,
+      "weight": 200
+    },
+    {
+      "from": 4,
+      "to": 13,
+      "weight": 900
+    },
+    {
+      "from": 4,
+      "to": 2,
+      "weight": 700
+    },
+    {
+      "from": 4,
+      "to": 5,
+      "weight": 200
+    },
+    {
+      "from": 4,
+      "to": 13,
+      "weight": 900
+    },
+    {
+      "from": 8,
+      "to": 3,
+      "weight": 1200
+    },
+    {
+      "from": 8,
+      "to": 3,
+      "weight": 1200
+    },
+    {
+      "from": 8,
+      "to": 9,
+      "weight": 600
+    },
+    {
+      "from": 8,
+      "to": 9,
+      "weight": 600
+    },
+    {
+      "from": 9,
+      "to": 3,
+      "weight": 800
+    },
+    {
+      "from": 9,
+      "to": 8,
+      "weight": 600
+    },
+    {
+      "from": 9,
+      "to": 3,
+      "weight": 800
+    },
+    {
+      "from": 9,
+      "to": 8,
+      "weight": 600
+    },
+    {
+      "from": 9,
+      "to": 10,
+      "weight": 2600
+    },
+    {
+      "from": 9,
+      "to": 10,
+      "weight": 2600
+    },
+    {
+      "from": 5,
+      "to": 4,
+      "weight": 200
+    },
+    {
+      "from": 5,
+      "to": 13,
+      "weight": 800
+    },
+    {
+      "from": 5,
+      "to": 4,
+      "weight": 200
+    },
+    {
+      "from": 5,
+      "to": 13,
+      "weight": 800
+    },
+    {
+      "from": 13,
+      "to": 4,
+      "weight": 900
+    },
+    {
+      "from": 13,
+      "to": 5,
+      "weight": 800
+    },
+    {
+      "from": 13,
+      "to": 4,
+      "weight": 900
+    },
+    {
+      "from": 13,
+      "to": 5,
+      "weight": 800
+    },
+    {
+      "from": 7,
+      "to": 6,
+      "weight": 700
+    },
+    {
+      "from": 7,
+      "to": 6,
+      "weight": 700
+    },
+    {
+      "from": 15,
+      "to": 6,
+      "weight": 500
+    },
+    {
+      "from": 15,
+      "to": 14,
+      "weight": 250
+    },
+    {
+      "from": 15,
+      "to": 6,
+      "weight": 500
+    },
+    {
+      "from": 15,
+      "to": 14,
+      "weight": 250
+    },
+    {
+      "from": 10,
+      "to": 9,
+      "weight": 2600
+    },
+    {
+      "from": 10,
+      "to": 11,
+      "weight": 1700
+    },
+    {
+      "from": 10,
+      "to": 9,
+      "weight": 2600
+    },
+    {
+      "from": 10,
+      "to": 11,
+      "weight": 1700
+    },
+    {
+      "from": 11,
+      "to": 10,
+      "weight": 1700
+    },
+    {
+      "from": 11,
+      "to": 10,
+      "weight": 1700
+    }
+  ]
+}
